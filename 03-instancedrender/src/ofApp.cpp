@@ -113,8 +113,6 @@ void ofApp::draw()
 {
     ofBackground(0);
     
-    static float t = 0;
-    t++;
     
     ofEnableDepthTest();
     
