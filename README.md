@@ -6,7 +6,7 @@
 * To help some creative coders to learn OpenGL.
 
 ## Env
- Almost all of code will work.(not tested on Linux) If you run a OpenGL 4.3~ project, you can use Windows.
+ Almost all of code will work. If you run a OpenGL 4.3~ project, please use Windows.
 
 * openFrameworks 0.9.8
 * OpenGL 4.1 or higher
